@@ -41,7 +41,7 @@ void setup()
   lcd.setCursor(0, 0);
   lcd.print("   Sei Kiu's    ");
   lcd.setCursor(0, 1);
-  lcd.print("    carpark     ");
+  lcd.print("    gantry      ");
   delay(1500);
   lcd.clear();
 }
